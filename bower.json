@@ -1,0 +1,25 @@
+{
+  "name": "my_bower_test",
+  "homepage": "https://github.com/nipampatel/my_bower_test",
+  "authors": [
+    "Nipam Patel <nipam2000@gmail.com>"
+  ],
+  "description": "Checking out bower packaging",
+  "main": "tt.js",
+  "moduleType": [],
+  "keywords": [
+    "test",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
